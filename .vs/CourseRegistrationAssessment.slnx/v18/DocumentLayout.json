@@ -1,0 +1,412 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adeel\\CourseRegistrationAssessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF9CA9C-E127-FEF0-4A99-A91502451CBA}|CourseRegistration.Application\\CourseRegistration.Application.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.application\\services\\courseregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF9CA9C-E127-FEF0-4A99-A91502451CBA}|CourseRegistration.Application\\CourseRegistration.Application.csproj|solutionrelative:courseregistration.application\\services\\courseregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF9CA9C-E127-FEF0-4A99-A91502451CBA}|CourseRegistration.Application\\CourseRegistration.Application.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF9CA9C-E127-FEF0-4A99-A91502451CBA}|CourseRegistration.Application\\CourseRegistration.Application.csproj|solutionrelative:courseregistration.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF063C2E-1E4F-EE25-5EA3-C102BE7FE909}|CourseRegistration.Api\\CourseRegistration.Api.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.api\\courseregistration.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EF063C2E-1E4F-EE25-5EA3-C102BE7FE909}|CourseRegistration.Api\\CourseRegistration.Api.csproj|solutionrelative:courseregistration.api\\courseregistration.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF063C2E-1E4F-EE25-5EA3-C102BE7FE909}|CourseRegistration.Api\\CourseRegistration.Api.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF063C2E-1E4F-EE25-5EA3-C102BE7FE909}|CourseRegistration.Api\\CourseRegistration.Api.csproj|solutionrelative:courseregistration.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6700195E-4A1B-DAF9-05DA-2F62B2C73A79}|CourseRegistration.Infrastructure\\CourseRegistration.Infrastructure.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.infrastructure\\services\\transactionalcourseregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6700195E-4A1B-DAF9-05DA-2F62B2C73A79}|CourseRegistration.Infrastructure\\CourseRegistration.Infrastructure.csproj|solutionrelative:courseregistration.infrastructure\\services\\transactionalcourseregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF063C2E-1E4F-EE25-5EA3-C102BE7FE909}|CourseRegistration.Api\\CourseRegistration.Api.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF063C2E-1E4F-EE25-5EA3-C102BE7FE909}|CourseRegistration.Api\\CourseRegistration.Api.csproj|solutionrelative:courseregistration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6700195E-4A1B-DAF9-05DA-2F62B2C73A79}|CourseRegistration.Infrastructure\\CourseRegistration.Infrastructure.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.infrastructure\\courseregistration.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6700195E-4A1B-DAF9-05DA-2F62B2C73A79}|CourseRegistration.Infrastructure\\CourseRegistration.Infrastructure.csproj|solutionrelative:courseregistration.infrastructure\\courseregistration.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF9CA9C-E127-FEF0-4A99-A91502451CBA}|CourseRegistration.Application\\CourseRegistration.Application.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.application\\abstractions\\icourseregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF9CA9C-E127-FEF0-4A99-A91502451CBA}|CourseRegistration.Application\\CourseRegistration.Application.csproj|solutionrelative:courseregistration.application\\abstractions\\icourseregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF063C2E-1E4F-EE25-5EA3-C102BE7FE909}|CourseRegistration.Api\\CourseRegistration.Api.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.api\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF063C2E-1E4F-EE25-5EA3-C102BE7FE909}|CourseRegistration.Api\\CourseRegistration.Api.csproj|solutionrelative:courseregistration.api\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF063C2E-1E4F-EE25-5EA3-C102BE7FE909}|CourseRegistration.Api\\CourseRegistration.Api.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF063C2E-1E4F-EE25-5EA3-C102BE7FE909}|CourseRegistration.Api\\CourseRegistration.Api.csproj|solutionrelative:courseregistration.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF063C2E-1E4F-EE25-5EA3-C102BE7FE909}|CourseRegistration.Api\\CourseRegistration.Api.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF063C2E-1E4F-EE25-5EA3-C102BE7FE909}|CourseRegistration.Api\\CourseRegistration.Api.csproj|solutionrelative:courseregistration.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6700195E-4A1B-DAF9-05DA-2F62B2C73A79}|CourseRegistration.Infrastructure\\CourseRegistration.Infrastructure.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6700195E-4A1B-DAF9-05DA-2F62B2C73A79}|CourseRegistration.Infrastructure\\CourseRegistration.Infrastructure.csproj|solutionrelative:courseregistration.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6700195E-4A1B-DAF9-05DA-2F62B2C73A79}|CourseRegistration.Infrastructure\\CourseRegistration.Infrastructure.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6700195E-4A1B-DAF9-05DA-2F62B2C73A79}|CourseRegistration.Infrastructure\\CourseRegistration.Infrastructure.csproj|solutionrelative:courseregistration.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF9CA9C-E127-FEF0-4A99-A91502451CBA}|CourseRegistration.Application\\CourseRegistration.Application.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.application\\abstractions\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF9CA9C-E127-FEF0-4A99-A91502451CBA}|CourseRegistration.Application\\CourseRegistration.Application.csproj|solutionrelative:courseregistration.application\\abstractions\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF9CA9C-E127-FEF0-4A99-A91502451CBA}|CourseRegistration.Application\\CourseRegistration.Application.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.application\\features\\courseregistration\\registercourserequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF9CA9C-E127-FEF0-4A99-A91502451CBA}|CourseRegistration.Application\\CourseRegistration.Application.csproj|solutionrelative:courseregistration.application\\features\\courseregistration\\registercourserequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF9CA9C-E127-FEF0-4A99-A91502451CBA}|CourseRegistration.Application\\CourseRegistration.Application.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.application\\features\\courseregistration\\registercourseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF9CA9C-E127-FEF0-4A99-A91502451CBA}|CourseRegistration.Application\\CourseRegistration.Application.csproj|solutionrelative:courseregistration.application\\features\\courseregistration\\registercourseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF9CA9C-E127-FEF0-4A99-A91502451CBA}|CourseRegistration.Application\\CourseRegistration.Application.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.application\\common\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF9CA9C-E127-FEF0-4A99-A91502451CBA}|CourseRegistration.Application\\CourseRegistration.Application.csproj|solutionrelative:courseregistration.application\\common\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF9CA9C-E127-FEF0-4A99-A91502451CBA}|CourseRegistration.Application\\CourseRegistration.Application.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.application\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF9CA9C-E127-FEF0-4A99-A91502451CBA}|CourseRegistration.Application\\CourseRegistration.Application.csproj|solutionrelative:courseregistration.application\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF9CA9C-E127-FEF0-4A99-A91502451CBA}|CourseRegistration.Application\\CourseRegistration.Application.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.application\\common\\exceptions\\businessruleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF9CA9C-E127-FEF0-4A99-A91502451CBA}|CourseRegistration.Application\\CourseRegistration.Application.csproj|solutionrelative:courseregistration.application\\common\\exceptions\\businessruleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA4A54C-98EB-6F2C-A7BF-7ADC01D95071}|CourseRegistration.Domain\\CourseRegistration.Domain.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.domain\\entities\\courseregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA4A54C-98EB-6F2C-A7BF-7ADC01D95071}|CourseRegistration.Domain\\CourseRegistration.Domain.csproj|solutionrelative:courseregistration.domain\\entities\\courseregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA4A54C-98EB-6F2C-A7BF-7ADC01D95071}|CourseRegistration.Domain\\CourseRegistration.Domain.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA4A54C-98EB-6F2C-A7BF-7ADC01D95071}|CourseRegistration.Domain\\CourseRegistration.Domain.csproj|solutionrelative:courseregistration.domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA4A54C-98EB-6F2C-A7BF-7ADC01D95071}|CourseRegistration.Domain\\CourseRegistration.Domain.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.domain\\entities\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA4A54C-98EB-6F2C-A7BF-7ADC01D95071}|CourseRegistration.Domain\\CourseRegistration.Domain.csproj|solutionrelative:courseregistration.domain\\entities\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA4A54C-98EB-6F2C-A7BF-7ADC01D95071}|CourseRegistration.Domain\\CourseRegistration.Domain.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.domain\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA4A54C-98EB-6F2C-A7BF-7ADC01D95071}|CourseRegistration.Domain\\CourseRegistration.Domain.csproj|solutionrelative:courseregistration.domain\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA4A54C-98EB-6F2C-A7BF-7ADC01D95071}|CourseRegistration.Domain\\CourseRegistration.Domain.csproj|c:\\users\\adeel\\courseregistrationassessment\\courseregistration.domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA4A54C-98EB-6F2C-A7BF-7ADC01D95071}|CourseRegistration.Domain\\CourseRegistration.Domain.csproj|solutionrelative:courseregistration.domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Api\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "CourseRegistration.Api\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Api\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "CourseRegistration.Api\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T22:24:38.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionalCourseRegistrationService.cs",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Infrastructure\\Services\\TransactionalCourseRegistrationService.cs",
+              "RelativeDocumentMoniker": "CourseRegistration.Infrastructure\\Services\\TransactionalCourseRegistrationService.cs",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Infrastructure\\Services\\TransactionalCourseRegistrationService.cs",
+              "RelativeToolTip": "CourseRegistration.Infrastructure\\Services\\TransactionalCourseRegistrationService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T22:10:24.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CourseRegistration.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "CourseRegistration.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T22:23:21.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CourseRegistration.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Api\\Program.cs",
+              "RelativeToolTip": "CourseRegistration.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T23:10:04.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseRegistration.Api",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Api\\CourseRegistration.Api.csproj",
+              "RelativeDocumentMoniker": "CourseRegistration.Api\\CourseRegistration.Api.csproj",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Api\\CourseRegistration.Api.csproj",
+              "RelativeToolTip": "CourseRegistration.Api\\CourseRegistration.Api.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-25T09:08:09.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseRegistrationService.cs",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Application\\Services\\CourseRegistrationService.cs",
+              "RelativeDocumentMoniker": "CourseRegistration.Application\\Services\\CourseRegistrationService.cs",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Application\\Services\\CourseRegistrationService.cs",
+              "RelativeToolTip": "CourseRegistration.Application\\Services\\CourseRegistrationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T21:55:24.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseRegistration.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Infrastructure\\CourseRegistration.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CourseRegistration.Infrastructure\\CourseRegistration.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Infrastructure\\CourseRegistration.Infrastructure.csproj",
+              "RelativeToolTip": "CourseRegistration.Infrastructure\\CourseRegistration.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-25T09:08:08.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICourseRegistrationService.cs",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Application\\Abstractions\\ICourseRegistrationService.cs",
+              "RelativeDocumentMoniker": "CourseRegistration.Application\\Abstractions\\ICourseRegistrationService.cs",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Application\\Abstractions\\ICourseRegistrationService.cs",
+              "RelativeToolTip": "CourseRegistration.Application\\Abstractions\\ICourseRegistrationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T09:14:35.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ValidationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Api\\Filters\\ValidationFilter.cs",
+              "RelativeDocumentMoniker": "CourseRegistration.Api\\Filters\\ValidationFilter.cs",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Api\\Filters\\ValidationFilter.cs",
+              "RelativeToolTip": "CourseRegistration.Api\\Filters\\ValidationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T23:34:04.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CourseRegistration.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CourseRegistration.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T22:26:23.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CourseRegistration.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CourseRegistration.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T22:14:23.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "CourseRegistration.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Api\\appsettings.json",
+              "RelativeToolTip": "CourseRegistration.Api\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-24T22:31:22.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CourseRegistration.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "CourseRegistration.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T22:13:30.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Application\\Abstractions\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CourseRegistration.Application\\Abstractions\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Application\\Abstractions\\IApplicationDbContext.cs",
+              "RelativeToolTip": "CourseRegistration.Application\\Abstractions\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T21:43:57.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterCourseRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Application\\Features\\CourseRegistration\\RegisterCourseRequestValidator.cs",
+              "RelativeDocumentMoniker": "CourseRegistration.Application\\Features\\CourseRegistration\\RegisterCourseRequestValidator.cs",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Application\\Features\\CourseRegistration\\RegisterCourseRequestValidator.cs",
+              "RelativeToolTip": "CourseRegistration.Application\\Features\\CourseRegistration\\RegisterCourseRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T21:25:20.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterCourseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Application\\Features\\CourseRegistration\\RegisterCourseResponse.cs",
+              "RelativeDocumentMoniker": "CourseRegistration.Application\\Features\\CourseRegistration\\RegisterCourseResponse.cs",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Application\\Features\\CourseRegistration\\RegisterCourseResponse.cs",
+              "RelativeToolTip": "CourseRegistration.Application\\Features\\CourseRegistration\\RegisterCourseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T21:24:40.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConflictException.cs",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Application\\Common\\Exceptions\\ConflictException.cs",
+              "RelativeDocumentMoniker": "CourseRegistration.Application\\Common\\Exceptions\\ConflictException.cs",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Application\\Common\\Exceptions\\ConflictException.cs",
+              "RelativeToolTip": "CourseRegistration.Application\\Common\\Exceptions\\ConflictException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T20:04:43.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "CourseRegistration.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "CourseRegistration.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T20:04:09.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BusinessRuleException.cs",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Application\\Common\\Exceptions\\BusinessRuleException.cs",
+              "RelativeDocumentMoniker": "CourseRegistration.Application\\Common\\Exceptions\\BusinessRuleException.cs",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Application\\Common\\Exceptions\\BusinessRuleException.cs",
+              "RelativeToolTip": "CourseRegistration.Application\\Common\\Exceptions\\BusinessRuleException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T20:03:40.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Domain\\Entities\\AuditLog.cs",
+              "RelativeDocumentMoniker": "CourseRegistration.Domain\\Entities\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Domain\\Entities\\AuditLog.cs",
+              "RelativeToolTip": "CourseRegistration.Domain\\Entities\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T20:01:50.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CourseRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Domain\\Entities\\CourseRegistration.cs",
+              "RelativeDocumentMoniker": "CourseRegistration.Domain\\Entities\\CourseRegistration.cs",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Domain\\Entities\\CourseRegistration.cs",
+              "RelativeToolTip": "CourseRegistration.Domain\\Entities\\CourseRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T20:01:17.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Domain\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "CourseRegistration.Domain\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Domain\\Entities\\Course.cs",
+              "RelativeToolTip": "CourseRegistration.Domain\\Entities\\Course.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T20:00:40.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Learner.cs",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Domain\\Entities\\Learner.cs",
+              "RelativeDocumentMoniker": "CourseRegistration.Domain\\Entities\\Learner.cs",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Domain\\Entities\\Learner.cs",
+              "RelativeToolTip": "CourseRegistration.Domain\\Entities\\Learner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T20:00:09.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Domain\\Entities\\Tenant.cs",
+              "RelativeDocumentMoniker": "CourseRegistration.Domain\\Entities\\Tenant.cs",
+              "ToolTip": "C:\\Users\\adeel\\CourseRegistrationAssessment\\CourseRegistration.Domain\\Entities\\Tenant.cs",
+              "RelativeToolTip": "CourseRegistration.Domain\\Entities\\Tenant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T19:59:34.067Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

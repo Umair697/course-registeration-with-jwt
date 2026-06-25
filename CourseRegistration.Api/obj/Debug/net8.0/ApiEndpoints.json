@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "CourseRegistration.Api.Controllers.AuthController",
+    "Method": "GenerateToken",
+    "RelativePath": "api/auth/token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CourseRegistration.Api.Controllers.CourseController",
+    "Method": "Register",
+    "RelativePath": "api/course/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CourseRegistration.Application.Features.CourseRegistration.RegisterCourseRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

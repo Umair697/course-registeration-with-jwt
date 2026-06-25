@@ -1,0 +1,17 @@
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Infrastructure\bin\Debug\net8.0\CourseRegistration.Infrastructure.deps.json
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Infrastructure\bin\Debug\net8.0\CourseRegistration.Infrastructure.dll
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Infrastructure\bin\Debug\net8.0\CourseRegistration.Infrastructure.pdb
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Infrastructure\bin\Debug\net8.0\CourseRegistration.Application.dll
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Infrastructure\bin\Debug\net8.0\CourseRegistration.Domain.dll
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Infrastructure\bin\Debug\net8.0\CourseRegistration.Application.pdb
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Infrastructure\bin\Debug\net8.0\CourseRegistration.Domain.pdb
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Infrastructure\obj\Debug\net8.0\CourseRegistration.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Infrastructure\obj\Debug\net8.0\CourseRegistration.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Infrastructure\obj\Debug\net8.0\CourseRegistration.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Infrastructure\obj\Debug\net8.0\CourseRegistration.Infrastructure.AssemblyInfo.cs
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Infrastructure\obj\Debug\net8.0\CourseRegistration.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Infrastructure\obj\Debug\net8.0\CourseRe.B405D5CC.Up2Date
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Infrastructure\obj\Debug\net8.0\CourseRegistration.Infrastructure.dll
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Infrastructure\obj\Debug\net8.0\refint\CourseRegistration.Infrastructure.dll
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Infrastructure\obj\Debug\net8.0\CourseRegistration.Infrastructure.pdb
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Infrastructure\obj\Debug\net8.0\ref\CourseRegistration.Infrastructure.dll

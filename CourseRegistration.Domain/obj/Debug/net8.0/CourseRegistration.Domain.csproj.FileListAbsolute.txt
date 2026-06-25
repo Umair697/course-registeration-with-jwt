@@ -1,0 +1,11 @@
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Domain\bin\Debug\net8.0\CourseRegistration.Domain.deps.json
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Domain\bin\Debug\net8.0\CourseRegistration.Domain.dll
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Domain\bin\Debug\net8.0\CourseRegistration.Domain.pdb
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Domain\obj\Debug\net8.0\CourseRegistration.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Domain\obj\Debug\net8.0\CourseRegistration.Domain.AssemblyInfoInputs.cache
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Domain\obj\Debug\net8.0\CourseRegistration.Domain.AssemblyInfo.cs
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Domain\obj\Debug\net8.0\CourseRegistration.Domain.csproj.CoreCompileInputs.cache
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Domain\obj\Debug\net8.0\CourseRegistration.Domain.dll
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Domain\obj\Debug\net8.0\refint\CourseRegistration.Domain.dll
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Domain\obj\Debug\net8.0\CourseRegistration.Domain.pdb
+C:\Users\adeel\CourseRegistrationAssessment\CourseRegistration.Domain\obj\Debug\net8.0\ref\CourseRegistration.Domain.dll
